@@ -1,3 +1,7 @@
+# 在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo
+
+[TOC]
+
 ## 声明
 
 本文不是在反对 Anki，我热爱 Anki，并为 Anki 写了很多教程，我觉得 Anki 是一个不错的间隔重复软件，也适合新手接触间隔重复[\[1\]](https://zhuanlan.zhihu.com/p/279553703#ref_1)与知识表述[\[2\]](https://zhuanlan.zhihu.com/p/279553703#ref_2)。我写此文是为了给一些有相同处境的同学提供我的见解。
@@ -304,21 +308,15 @@ A：MLFQ
 
 ## 鸣谢
 
-这里是 SuperMemo 群群友
-
-[@临水斜箫](https://www.zhihu.com/people/193f4c99c74479f7af501804a896a6f7)
-
-的视频教程：
+这里是 SuperMemo 群群友[@临水斜箫](https://www.zhihu.com/people/193f4c99c74479f7af501804a896a6f7)的视频教程：
 
 [「记忆软件」手把手教你用Supermemo系列​www.bilibili.com/video/BV1L741197iu](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1L741197iu)
 
 还有 SuperMemo 帮助文档的翻译：
 
-[SuperMemo 18帮助文档 · 语雀​www.yuque.com/supermemo/wiki/help![](https://pic1.zhimg.com/v2-b97a11638b50bbc6500138df61b728f4_ipico.jpg)](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/help)
+[SuperMemo 18帮助文档 · 语雀​www.yuque.com/supermemo/wiki/help](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki/help)
 
-[@SuperDaniel](https://www.zhihu.com/people/dcd99817bb9f2281ac57a7901c82c151)
-
-是组织者，非常感谢你们！
+[@SuperDaniel](https://www.zhihu.com/people/dcd99817bb9f2281ac57a7901c82c151)是组织者，非常感谢你们！
 
 2020 年 11 月 8 日
 
@@ -332,9 +330,7 @@ A：MLFQ
 
 此文介绍了 SuperMemo 的学习方法——渐进阅读（也称增量阅读[\[19\]](https://zhuanlan.zhihu.com/p/279553703#ref_19)）
 
-[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)332 赞同 · 73 评论文章![](https://pic4.zhimg.com/v2-c4f6d45691f9ad2dce73c83e7e9af223_ipico.jpg)](https://zhuanlan.zhihu.com/p/307996163)
-
-##   
+[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)](https://zhuanlan.zhihu.com/p/307996163)
 
 ## 参考
 
