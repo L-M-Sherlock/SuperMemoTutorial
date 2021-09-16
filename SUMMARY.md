@@ -5,7 +5,7 @@
     * [心理学视角](渐进学习是什么/心理学视角.md)
 * [第 1 章 为什么渐进学习](为什么渐进学习.md)
     * [为什么我从 Anki 转向 SuperMemo](为什么渐进学习/AnkiToSuperMemo.md)
-    * [为什么从传统笔记转向 SuperMemo](为什么渐进学习/NoteToSuperMemo.md)
+    * [SuperMemo 比传统笔记强在哪](为什么渐进学习/NoteToSuperMemo.md)
     * [SuperMemo 解决了哪些问题](为什么渐进学习/SuperMemo解决了哪些问题.md)
 * [第 2 章 入门渐进学习](入门渐进学习.md)
     * [基本概念与操作](入门渐进学习/基本概念与操作.md)
