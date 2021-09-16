@@ -43,13 +43,13 @@
 
 卡片总数：18,058 + 10,876 = 28,934
 
-:-: ![](https://pic2.zhimg.com/80/v2-7ef358d81a342ad839e5ed6f87586059_720w.jpg)
+:-: ![](../images/v2-7ef358d81a342ad839e5ed6f87586059_720w.jpg)
 
-:-: ![](https://pic4.zhimg.com/80/v2-8be7ccb7d53d94507b7660bd033ff387_720w.jpg)
+:-: ![](../images/v2-8be7ccb7d53d94507b7660bd033ff387_720w.jpg)
 
-:-: ![](https://pic2.zhimg.com/80/v2-68de1336e4dabd013a62588d8857da5d_720w.jpg)
+:-: ![](../images/v2-68de1336e4dabd013a62588d8857da5d_720w.jpg)
 
-:-: ![](https://pic2.zhimg.com/80/v2-bff8678f38c4df09ef3e58fc21846c3d_720w.jpg)
+:-: ![](../images/v2-bff8678f38c4df09ef3e58fc21846c3d_720w.jpg)
 
 在写此文的时候，我才意识到，我在 Anki 上花了多少时间与精力（甚至还没把我在知乎写 Anki 相关内容的时间记进来）
 
@@ -152,7 +152,7 @@ Anki 的受欢迎程度超过了 SuperMemo：
 
 在我立下 flag，要背完雅思的单词时，Anki 中的大量复习向我涌来。如果我有一天没有完成复习安排，复习量会积累，甚至超过 1000 张到期卡片。
 
-:-: ![](https://pic3.zhimg.com/80/v2-73efdd5ef44b3dffa2cada70b91c2b6a_720w.jpg)
+:-: ![](../images/v2-73efdd5ef44b3dffa2cada70b91c2b6a_720w.jpg)
 
 连续好几周，我需要每天复习 600 多张卡片，又由于强背单词的记忆效果太差，我一分钟过不了太多的卡片。
 
@@ -170,9 +170,9 @@ Anki 的受欢迎程度超过了 SuperMemo：
 
 ### Anki 的参数很自由
 
-:-: ![](https://pic2.zhimg.com/80/v2-6aac1707fd5dc9e4dcc45bb1fa4229b9_720w.jpg)
+:-: ![](../images/v2-6aac1707fd5dc9e4dcc45bb1fa4229b9_720w.jpg)
 
-:-: ![](https://pic2.zhimg.com/80/v2-cd04b6ad0d605f75b354fe430dcd96dd_720w.jpg)
+:-: ![](../images/v2-cd04b6ad0d605f75b354fe430dcd96dd_720w.jpg)
 
 “Anki 的一切都能交给用户自己来掌握！“可惜这句话现在看来就是把难题抛给了用户来解决。
 
@@ -196,7 +196,7 @@ Anki 的受欢迎程度超过了 SuperMemo：
 > **重要的是要认识到，不仅努力的检索可以提高学习，而且反之亦然：轻松的检索似乎基本上没有学习效果。**——[On the Symbiosis of Remembering, Forgetting, and Learning](https://www.taylorfrancis.com/books/e/9781136906640/chapters/10.4324%2F9780203842539-6)
 > **在太容易的条件下进行几次测试，破坏了测试的积极效果。在0-0-0条件下，要求被试者在基本上总是正确的条件下回忆三次项目。然而，这三次（容易的）检索导致后来的保留甚至比在更困难的条件下给予的单次测试（两种延迟的5种条件）更差。**
 
-:-: ![](https://pic1.zhimg.com/80/v2-0cdc2d8d79693fdead24f4bf302680dc_720w.jpg)
+:-: ![](../images/v2-0cdc2d8d79693fdead24f4bf302680dc_720w.jpg)
 
 > **保持条件的恒定和可预测，以及在某一任务上进行大量试验等操作，往往在教学或训练期间似乎提高了学习速度，但随后通常无法支持长期的保持和转移。**  
 > **如果文献在任何一点上是清楚的，那就是在容易检索的条件下重复测试会导致较差的长期记忆**——[Intricacies of Spaced Retrieval: a Resolution](http://memory.psych.purdue.edu/downloads/inpress_Roediger_Karpicke_Bjorkfest_Chapter.pdf)
@@ -230,7 +230,7 @@ Anki 的受欢迎程度超过了 SuperMemo：
 
 SuperMemo 的算法是否优于 Anki？很可能，但相比这一点，这个算法的灵活性才是重点：
 
-:-: ![](https://pic4.zhimg.com/80/v2-b95b24170ddd4fd5c00748fe95323f2f_720w.jpg)
+:-: ![](../images/v2-b95b24170ddd4fd5c00748fe95323f2f_720w.jpg)
 
 对提前复习和[推迟](https://www.yuque.com/supermemo/wiki/postpone)复习的完美支持，让我不再对每日爆表的复习量有太大的压力。
 

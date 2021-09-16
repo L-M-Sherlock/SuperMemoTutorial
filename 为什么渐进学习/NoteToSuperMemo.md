@@ -42,7 +42,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 #### I. 重新阅读是低效的
 
-> :-: ![](https://pic3.zhimg.com/80/v2-d771c01dbb240a592813066904a734ae_720w.jpg)
+> :-: ![](../images/v2-d771c01dbb240a592813066904a734ae_720w.jpg)
 > 图片来源：[Improving Students’ Learning With Effective Learning Techniques](https://www.researchgate.net/publication/258180568_Improving_Students)
 
 #### II. 不可持续的复习计划
@@ -89,7 +89,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 **在任何笔记系统中，你都必须寻找信息。在 SuperMemo 中，信息会寻找你。**
 
-> :-: ![](https://pic1.zhimg.com/80/v2-a6b86dcce003822df2af4e9cdc6efa7c_720w.jpg)
+> :-: ![](../images/v2-a6b86dcce003822df2af4e9cdc6efa7c_720w.jpg)
 > 我读了一篇一年前我导入 SuperMemo 的文章。
 
 ### 2. 交互(被动 vs 主动)
@@ -162,7 +162,7 @@ Anki 有主动回忆卡片的功能，但没有处理源材料/笔记(渐进阅�
 
 在使用 SuperMemo 之前，我使用的是 OneNote。我有文件夹、章节、笔记，有组织，有标记。这是我 2016 年 OneNote 的截图。这是我为《[认知天性](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)》做的笔记：
 
-:-: ![](https://pic3.zhimg.com/80/v2-7bd51e3f4bbd1881841a9ef0822c3eca_720w.jpg)
+:-: ![](../images/v2-7bd51e3f4bbd1881841a9ef0822c3eca_720w.jpg)
 
 诚然，OneNote(或 Evernote)有许多 SuperMemo 没有的功能：同步、内置 OCR、现代美观的 UI 设计和界面、移动版本可以“随时随地查找和查看”。
 
