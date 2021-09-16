@@ -17,7 +17,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 ## 任何笔记系统的预期用途(摘要、高亮和重新阅读)
 
-参见另一个类似的讨论：[学习时不应该做笔记的 3 个重要原因](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-%28including-onenote-and-evernote%29/2019-08-29-3-fatal-reasons-why-you-shouldnt-be-taking-notes-when-studying)
+参见另一个类似的讨论：[学习时不应该做笔记的 3 个重要原因](https://www.masterhowtolearn.com/2019-08-29-3-fatal-reasons-why-you-shouldnt-be-taking-notes-when-studying/)
 
 两种典型使用场景：
 
@@ -42,11 +42,8 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 #### I. 重新阅读是低效的
 
-  
-
-:-: ![](https://pic3.zhimg.com/80/v2-d771c01dbb240a592813066904a734ae_720w.jpg)
-
-图片来源：[Improving Students’ Learning With Effective Learning Techniques](https://www.researchgate.net/publication/258180568_Improving_Students)
+> :-: ![](https://pic3.zhimg.com/80/v2-d771c01dbb240a592813066904a734ae_720w.jpg)
+> 图片来源：[Improving Students’ Learning With Effective Learning Techniques](https://www.researchgate.net/publication/258180568_Improving_Students)
 
 #### II. 不可持续的复习计划
 
@@ -78,7 +75,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 > 你怎么知道什么时候应该复习笔记呢？
 
-你不知道。我们不知道什么是我们不知道的，什么是我们需要知道的。格温的《[有效学习的间隔重复](https://link.zhihu.com/?target=https%3A//www.gwern.net/Spaced-repetition)》一书精辟地描述了这一悖论：
+你不知道。我们不知道什么是我们不知道的，什么是我们需要知道的。格温的《[有效学习的间隔重复](https://www.gwern.net/Spaced-repetition)》一书精辟地描述了这一悖论：
 
 > 我们很难知道什么时候应该复习——最好的时机是将忘未忘的时候。但这就是症结：如果你即将忘记它，你应该怎么记得要复习它呢？你只记得要复习你知道的内容，但你已经知道的内容又不需要复习！
 
@@ -151,11 +148,9 @@ Anki 有主动回忆卡片的功能，但没有处理源材料/笔记(渐进阅�
 
 #### 做笔记就是选取相关信息
 
-就《[作为生成性活动的学习：促进理解的八个学习策略](https://link.zhihu.com/?target=https%3A//www.amazon.com/Learning-Generative-Activity-Strategies-Understanding/dp/1107069912)》中的 SOI 模型而言，做笔记主要是第一步，S：从感觉记忆中选取相关信息(从指导材料中，即你的学习材料)。
+就《[作为生成性活动的学习：促进理解的八个学习策略](https://www.amazon.com/Learning-Generative-Activity-Strategies-Understanding/dp/1107069912)》中的 SOI 模型而言，做笔记主要是第一步，S：从感觉记忆中选取相关信息(从指导材料中，即你的学习材料)。
 
-  
-
-![](https://pic4.zhimg.com/80/v2-bf9bb64dc1cb703d34621d1d353f99b7_720w.jpg)
+:-: ![](https://pic4.zhimg.com/80/v2-bf9bb64dc1cb703d34621d1d353f99b7_720w.jpg)
 
 做笔记只是用来记录你认为重要或相关的信息。例如，你在一次重要考试中所做的笔记将与你在休闲阅读中所做的笔记大不相同。你将如何处理捕获的信息则是另一回事。
 
@@ -167,11 +162,7 @@ Anki 有主动回忆卡片的功能，但没有处理源材料/笔记(渐进阅�
 
 在使用 SuperMemo 之前，我使用的是 OneNote。我有文件夹、章节、笔记，有组织，有标记。这是我 2016 年 OneNote 的截图。这是我为《[认知天性](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)》做的笔记：
 
-  
-
 :-: ![](https://pic3.zhimg.com/80/v2-7bd51e3f4bbd1881841a9ef0822c3eca_720w.jpg)
-
-  
 
 诚然，OneNote(或 Evernote)有许多 SuperMemo 没有的功能：同步、内置 OCR、现代美观的 UI 设计和界面、移动版本可以“随时随地查找和查看”。
 
