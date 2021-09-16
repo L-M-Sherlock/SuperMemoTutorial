@@ -1,5 +1,7 @@
 # SuperMemo 的三大模块，解决记忆的三大问题！
 
+作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+
 [TOC=2,4]
 
 ## 太长不看

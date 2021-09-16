@@ -1,5 +1,7 @@
 # 在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo
 
+译者兼作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+
 [TOC=2,4]
 
 ## 声明
