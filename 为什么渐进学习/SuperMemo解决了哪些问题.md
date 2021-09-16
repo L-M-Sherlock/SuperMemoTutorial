@@ -1,6 +1,8 @@
 # SuperMemo 的三大模块，解决记忆的三大问题！
 
-作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+> 作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+
+## 目录
 
 [TOC=2,4]
 
@@ -18,21 +20,15 @@
 
 单看 SuperMemo 如今**浩如烟海的功能**和**上世纪风格的界面**，不少入门者都觉得 SuperMemo 非常复杂，完全搞不明白这些功能**对记忆有什么帮助**。
 
-  
-
 ![](https://pic2.zhimg.com/80/v2-143bad318d1edf8ce06eb8365f7db3e9_720w.png)
-
-Image
-
-  
 
 为了更好地剖析 SuperMemo，我发现从**时间顺序**来分析是一条不错的路径。
 
 以下就是 SuperMemo 主要模块引入的时间：
 
 *   记忆算法(始于[SuperMemo 1 (1987)](https://zhuanlan.zhihu.com/p/97887756))
-*   渐进阅读(始于[SuperMemo 10 (2000)](https://link.zhihu.com/?target=https%3A//super-memory.com/articles/soft/sm10.htm))
-*   优先级队列(始于[SuperMemo 13 (2006)](https://link.zhihu.com/?target=https%3A//super-memory.com/archive/help2006/new2006.htm))
+*   渐进阅读(始于[SuperMemo 10 (2000)](https://super-memory.com/articles/soft/sm10.htm))
+*   优先级队列(始于[SuperMemo 13 (2006)](https://super-memory.com/archive/help2006/new2006.htm))
 
 接下来我们就按照这个顺序分析一下，这些模块分别**解决了什么**问题，以及它们是**如何解决**的。
 
@@ -59,13 +55,7 @@ Image
 
 事实证明，复习间隔**太长**和**太短**，都会**加重复习**的负担。
 
-  
-
 ![](https://pic3.zhimg.com/v2-888d448cb6fc8544f14c0fbe7803d7a6_b.jpg)
-
-Image
-
-  
 
 如何理解？间隔短，可以保证自己忘得少，但是这是用时间换的。间隔长，看似可以节省时间，然而其造成的遗忘需要未来更多的复习。
 
@@ -79,7 +69,7 @@ Image
 
 更多有关记忆算法的内容，请见我的收藏夹：
 
-[Spaced Repetition177 浏览 · 6 关注收藏夹![](https://pic2.zhimg.com/80/v2-b2918ef3f9c19572ba524ac59316a917_1440w.png)](https://www.zhihu.com/collection/644178787)
+[Spaced Repetition - 收藏夹 - 知乎 (zhihu.com)](https://www.zhihu.com/collection/644178787)
 
 ## 渐进阅读
 
@@ -98,7 +88,7 @@ Image
 
 有阅读过这个收藏夹内文章的朋友应该能够明白，知识表述对记忆质量有很大的影响：
 
-[制卡原则与知识表述2159 浏览 · 74 关注收藏夹![](https://pic2.zhimg.com/80/v2-b2918ef3f9c19572ba524ac59316a917_1440w.png)](https://www.zhihu.com/collection/614280525)
+[制卡原则与知识表述 - 收藏夹 - 知乎 (zhihu.com)](https://www.zhihu.com/collection/614280525)
 
 而许多 Anki 用户在这个问题上有三种因对方式：
 
@@ -131,10 +121,6 @@ SuperMemo 的算法通过对我个人复习情况的拟合，计算出了不同�
 **渐进阅读**，解决的是记忆的**质量**问题，即如何提高让自己的记忆**更加稳固**，**更难遗忘**。
 
 **渐进阅读**，通过打通阅读到制卡的一系列环节，增进我们对知识的理解，从而解决上述问题。
-
-更多有关渐进阅读的内容，请见我的专栏：
-
-[SuperMemo—渐进学习最前沿！​www.zhihu.com/column/c\_1308886122672484352![](https://pic2.zhimg.com/v2-52a669542a8699d42a3c5796c7e536e9_ipico.jpg)](https://www.zhihu.com/column/c_1308886122672484352)
 
 ## 优先级队列
 
@@ -176,7 +162,7 @@ Image
 
 以下是另外一篇介绍优先级队列的文章，有兴趣不妨看看：
 
-[叶峻峣：渐进阅读：卡片刷不完？拥抱优先级！46 赞同 · 11 评论文章![](https://pic3.zhimg.com/v2-e7ecb6c33997108a4b8027199f6b36f2_180x120.jpg)](https://zhuanlan.zhihu.com/p/364351955)
+[渐进阅读：卡片刷不完？拥抱优先级！](./2450604)
 
 ## 结语
 

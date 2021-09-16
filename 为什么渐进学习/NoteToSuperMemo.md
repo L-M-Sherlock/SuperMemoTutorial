@@ -1,8 +1,11 @@
 # 为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote)
 
-[TOC=2,4]
-
+> 译者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
 > 原文：[MasterHowToLearn - Why SuperMemo Trashes Any Note-taking System (Including OneNote and Evernote)](https://www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-(including-onenote-and-evernote)/)
+
+## 目录
+
+[TOC=2,4]
 
 太长不看版：
 

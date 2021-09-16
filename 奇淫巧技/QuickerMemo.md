@@ -1,8 +1,6 @@
 # QuickerMemo：以思考的速度渐进学习
 
-作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
-
-[TOC=2,4]
+> 作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
 
 > 前置知识：**Quicker，SuperMemo，渐进学习**
 
@@ -12,21 +10,21 @@
 
 有了这套动作集和快捷键，可以发挥键盘的最大作用，让你的刷卡速度跟上你的思维。
 
+## 目录
+
+[TOC=2,4]
+
 ## 动作总览
 
 快捷键分享地址：
 
-[SuperMemo 纯键盘操作 - 扩展热键配置包 - Quicker​getquicker.net/share/powerkeys/package?id=5fcf3d5c-c548-4793-6115-08d8ac47c7cb](https://link.zhihu.com/?target=https%3A//getquicker.net/share/powerkeys/package%3Fid%3D5fcf3d5c-c548-4793-6115-08d8ac47c7cb)
+[SuperMemo 纯键盘操作 - 扩展热键配置包 - Quicker (getquicker.net)](https://getquicker.net/share/powerkeys/package?id=5fcf3d5c-c548-4793-6115-08d8ac47c7cb)
 
 配合 CapsLock 键，可以使用更多的组合键来实现以下功能：
-
-  
 
 ![](https://pic4.zhimg.com/80/v2-8bafbd0c316e066478f56d872eb647c7_1440w.png)
 
 Image
-
-  
 
 不过这样可能会导致 CapsLock 键不能用于原来的用途，所以我用 CapsLock + Enter 来替代原来的大小写切换功能。
 
@@ -36,21 +34,15 @@ Image
 
 首先是 CapsLock + 1/2/3/4 分别对应优先级 0/10/30/70，极大地方便了我们快速设置卡片的优先级。其动作模板是：
 
-[高优先级 - 已分享的动作 - Quicker​getquicker.net/sharedaction?code=bf30d743-a249-4c7f-295f-08d891a6372a](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3Dbf30d743-a249-4c7f-295f-08d891a6372a)
+[高优先级 - 已分享的动作 - L.M.Sherlock - Quicker (getquicker.net)](https://getquicker.net/sharedaction?code=bf30d743-a249-4c7f-295f-08d891a6372a)
 
 然后是 CapsLock + F，可以统一格式，具体的动作介绍请参见：
 
-[统一格式 - 已分享的动作 - Quicker​getquicker.net/sharedaction?code=859bda04-fe78-4385-1b37-08d88a0dba1c](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3D859bda04-fe78-4385-1b37-08d88a0dba1c)
+[统一格式 - 已分享的动作 - L.M.Sherlock - Quicker (getquicker.net)](https://getquicker.net/sharedaction?code=859bda04-fe78-4385-1b37-08d88a0dba1c)
 
 效果：
 
-  
-
 ![](https://pic3.zhimg.com/v2-5e68c73200991efede80cdf53d11f566_b.jpg)
-
-Image
-
-  
 
 最后是 CapsLock + Tab + Enter，用来删除当前卡片的内容，并将其搁置，不再复习。原先的快捷键是 Ctrl + Shift + Enter，我个人不太喜欢把手指移到左下角，所以就改了。
 
@@ -66,17 +58,11 @@ CapsLock + E，退出，就是代替了 Esc，同样是太远的缘故。并且 
 
 CapsLock + M，可以输入 LaTeX 公式，自动粘贴公式图片到 SuperMemo 上，具体的介绍请见：
 
-[公式转图片 - 已分享的动作 - Quicker​getquicker.net/sharedaction?code=8df5d7a2-e1c9-4d21-c7fc-08d91b37df64![](https://pic4.zhimg.com/v2-b631701aed23e98f3babc6dd2ce016e3_180x120.jpg)](https://link.zhihu.com/?target=https%3A//getquicker.net/sharedaction%3Fcode%3D8df5d7a2-e1c9-4d21-c7fc-08d91b37df64)
+[公式转图片 - 已分享的动作 - L.M.Sherlock - Quicker (getquicker.net)](https://getquicker.net/sharedaction?code=8df5d7a2-e1c9-4d21-c7fc-08d91b37df64)
 
 效果：
 
-  
-
 ![](https://pic4.zhimg.com/v2-b631701aed23e98f3babc6dd2ce016e3_b.jpg)
-
-Image
-
-  
 
 CapsLock + W，将选中文字设为文章标题，对于导入大量文章的同学很有用，一下就把标题设置好了。
 
