@@ -7,3 +7,8 @@
     * [为什么我从 Anki 转向 SuperMemo](为什么渐进学习/AnkiToSuperMemo.md)
     * [为什么从传统笔记转向 SuperMemo](为什么渐进学习/NoteToSuperMemo.md)
     * [SuperMemo 解决了哪些问题](为什么渐进学习/SuperMemo解决了哪些问题.md)
+* [第 2 章 入门渐进学习](入门渐进学习.md)
+    * [基本概念与操作](入门渐进学习/基本概念与操作.md)
+    * [样式统一](入门渐进学习/样式统一.md)
+* [第 3 章 更进一步](更进一步.md)
+* [第 4 章 奇淫巧技](奇淫巧技.md)

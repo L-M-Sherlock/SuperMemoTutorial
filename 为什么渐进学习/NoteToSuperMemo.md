@@ -1,8 +1,8 @@
 # 为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote)
 
-[TOC]
+[TOC=2,4]
 
-> 原文：[MasterHowToLearn - Why SuperMemo Trashes Any Note-taking System (Including OneNote and Evernote)](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-%28including-onenote-and-evernote%29/)
+> 原文：[MasterHowToLearn - Why SuperMemo Trashes Any Note-taking System (Including OneNote and Evernote)](https://www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-(including-onenote-and-evernote)/)
 
 太长不看版：
 
@@ -14,7 +14,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
   
 
-## **1\. 任何笔记系统的预期用途(摘要、高亮和重新阅读)**
+## **任何笔记系统的预期用途(摘要、高亮和重新阅读)**
 
 参见另一个类似的讨论：[学习时不应该做笔记的 3 个重要原因](https://link.zhihu.com/?target=https%3A//www.masterhowtolearn.com/2020-02-28-why-supermemo-trashes-any-note-taking-system-%28including-onenote-and-evernote%29/2019-08-29-3-fatal-reasons-why-you-shouldnt-be-taking-notes-when-studying)
 
@@ -39,7 +39,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 ### **2\. 复习笔记**
 
-### **I. 重新阅读是低效的**
+#### **I. 重新阅读是低效的**
 
   
 
@@ -47,7 +47,7 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 图片来源：[Improving Students’ Learning With Effective Learning Techniques](https://link.zhihu.com/?target=https%3A//www.researchgate.net/publication/258180568_Improving_Students)
 
-### **II. 不可持续的复习计划**
+#### **II. 不可持续的复习计划**
 
 从长远来看，“经常复习”是不可持续的。随着你的笔记越来越多，重读笔记的计划不可能持续。当然，大多数人没有意识到复习笔记的必要。即使他们有意识，在大多数情况下也“两到三次”(一年内吗？)。他们没有复习安排系统。
 
@@ -65,15 +65,13 @@ SuperMemo：双向交互：信息找到你；你把信息转化成知识
 
 ## **任何笔记系统 vs SuperMemo**
 
-### **1\. 何时复习(手动 vs 自动)**
-
-### **2.**交互程度**(被动 vs 主动)**
-
-### **3\. 做笔记的目标(本身就是目的 vs 抽认卡的起点)**
+1. 何时复习(手动 vs 自动)
+2. 交互程度(被动 vs 主动)
+3. 做笔记的目标(本身就是目的 vs 抽认卡的起点)
 
 ### **1\. 何时复习**
 
-### **安排复习时间：**
+**安排复习时间：**
 
 **任何笔记系统：手动查找信息来复习。但这带来了元判断的问题：**
 
@@ -153,7 +151,7 @@ Anki 有主动回忆卡片的功能，但没有处理源材料/笔记(渐进阅�
 > 学习资源(讲座 PDF、教程视频、阅读材料)—>做笔记—>抽认卡  
 > 渐进阅读：从源材料做笔记—>提取制卡
 
-### 做笔记就是选取相关信息
+#### 做笔记就是选取相关信息
 
 就《[作为生成性活动的学习：促进理解的八个学习策略](https://link.zhihu.com/?target=https%3A//www.amazon.com/Learning-Generative-Activity-Strategies-Understanding/dp/1107069912)》中的 SOI 模型而言，做笔记主要是第一步，S：从感觉记忆中选取相关信息(从指导材料中，即你的学习材料)。
 
@@ -163,11 +161,11 @@ Anki 有主动回忆卡片的功能，但没有处理源材料/笔记(渐进阅�
 
 做笔记只是用来记录你认为重要或相关的信息。例如，你在一次重要考试中所做的笔记将与你在休闲阅读中所做的笔记大不相同。你将如何处理捕获的信息则是另一回事。
 
-### **为什么是抽认卡？**
+#### **为什么是抽认卡？**
 
 再看看上表。抽认卡综合运用了**练习测试**(高效)、**分布练习**(高效)和交叉练习(中效)等学习策略，即这些策略的最佳实现方式是通过抽认卡；使用抽认卡的最佳方式是……你猜对了，是通过 SRS (SuperMemo/Anki)。
 
-### 在笔记系统中进行知识管理是白费功夫
+#### 在笔记系统中进行知识管理是白费功夫
 
 在使用 SuperMemo 之前，我使用的是 OneNote。我有文件夹、章节、笔记，有组织，有标记。这是我 2016 年 OneNote 的截图。这是我为《[认知天性](https://link.zhihu.com/?target=https%3A//www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)》做的笔记：
 
