@@ -22,9 +22,7 @@
 
 配合 CapsLock 键，可以使用更多的组合键来实现以下功能：
 
-![](https://pic4.zhimg.com/80/v2-8bafbd0c316e066478f56d872eb647c7_1440w.png)
-
-Image
+:-: ![](https://pic4.zhimg.com/80/v2-8bafbd0c316e066478f56d872eb647c7_1440w.png)
 
 不过这样可能会导致 CapsLock 键不能用于原来的用途，所以我用 CapsLock + Enter 来替代原来的大小写切换功能。
 
@@ -42,7 +40,7 @@ Image
 
 效果：
 
-![](https://pic3.zhimg.com/v2-5e68c73200991efede80cdf53d11f566_b.jpg)
+:-: ![](https://pic3.zhimg.com/v2-5e68c73200991efede80cdf53d11f566_b.jpg)
 
 最后是 CapsLock + Tab + Enter，用来删除当前卡片的内容，并将其搁置，不再复习。原先的快捷键是 Ctrl + Shift + Enter，我个人不太喜欢把手指移到左下角，所以就改了。
 
@@ -62,7 +60,7 @@ CapsLock + M，可以输入 LaTeX 公式，自动粘贴公式图片到 SuperMemo
 
 效果：
 
-![](https://pic4.zhimg.com/v2-b631701aed23e98f3babc6dd2ce016e3_b.jpg)
+:-: ![](https://pic4.zhimg.com/v2-b631701aed23e98f3babc6dd2ce016e3_b.jpg)
 
 CapsLock + W，将选中文字设为文章标题，对于导入大量文章的同学很有用，一下就把标题设置好了。
 
