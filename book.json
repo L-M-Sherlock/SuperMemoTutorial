@@ -1,0 +1,25 @@
+{
+    "plugins": [
+        "image-zoom",
+        "comment"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "show_nav": true,
+            "logo": {},
+            "navs": [
+                {
+                    "title": "作者专栏",
+                    "url": "https://www.zhihu.com/column/c_1308886122672484352",
+                    "target": true
+                },
+                {
+                    "title": "帮助文档",
+                    "url": "https://www.yuque.com/supermemo/wiki",
+                    "target": true
+                }
+            ]
+        }
+    }
+}
