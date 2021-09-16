@@ -8,33 +8,33 @@
 
 废话不多说，我将专栏里的文章划分为以下几个部分：
 
-## **渐进学习是什么？**
+## 渐进学习是什么？
 
-高中生视角：《[传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。](./2450556)》
+高中生视角：[传统学习究竟怎样对接 Anki 制卡？也谈渐进学习。](./2450556)
 
-程序员视角：《[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)](https://zhuanlan.zhihu.com/p/307996163)》
+程序员视角：[同时阅读上百篇文章？渐进阅读之程序员视角(IRAPP)](./2450557)
 
-心理学视角：SuperMemo 中渐进阅读的意义：《[第一部分](https://zhuanlan.zhihu.com/p/322497441)》 + 《[第二部分](https://zhuanlan.zhihu.com/p/322584755)》
+心理学视角：[SuperMemo 中渐进阅读的意义](./2450558)
 
-## **为什么渐进学习？**
+## 为什么渐进学习？
 
-为什么从 Anki 转 SuperMemo：《[在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo](https://zhuanlan.zhihu.com/p/279553703)》
+为什么从 Anki 转 SuperMemo：[在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo](./2450560)
 
-为什么从传统笔记转 SuperMemo：《[为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote)](https://zhuanlan.zhihu.com/p/352176551)》
+为什么从传统笔记转 SuperMemo：[为什么任何笔记系统在 SuperMemo 面前都是垃圾 (如 OneNote 和 Evernote)](./2450561)
 
-SuperMemo 解决了哪些问题：《[SuperMemo 的三大模块，解决记忆的三大问题！](https://zhuanlan.zhihu.com/p/369881954)》
+SuperMemo 解决了哪些问题：[SuperMemo 的三大模块，解决记忆的三大问题！](./2450562)
 
-## **入门渐进学习**
+## 入门渐进学习
 
-基本概念与操作：《[渐进阅读基本概念与操作介绍](https://zhuanlan.zhihu.com/p/313684185)》
+基本概念与操作：[渐进阅读基本概念与操作介绍](https://zhuanlan.zhihu.com/p/313684185)
 
-样式统一：《[渐进阅读懒人样式](https://zhuanlan.zhihu.com/p/318653942)》
+样式统一：[渐进阅读懒人样式](https://zhuanlan.zhihu.com/p/318653942)
 
-导入材料：《[渐进阅读材料导入与预处理](https://zhuanlan.zhihu.com/p/321701995)》
+导入材料：[渐进阅读材料导入与预处理](https://zhuanlan.zhihu.com/p/321701995)
 
-做好备份：《[SuperMemo 自动备份](https://zhuanlan.zhihu.com/p/351606263)》
+做好备份：[SuperMemo 自动备份](https://zhuanlan.zhihu.com/p/351606263)
 
-工作流示范：《[示范：我的渐进阅读工作流程](https://zhuanlan.zhihu.com/p/322673517)》
+工作流示范：[示范：我的渐进阅读工作流程](https://zhuanlan.zhihu.com/p/322673517)
 
 ## **更进一步**
 
@@ -50,47 +50,35 @@ SuperMemo 解决了哪些问题：《[SuperMemo 的三大模块，解决记忆�
 
 链接和概念？渐进写作？《[supermemo【知识树】【概念】和【链接】的作用和使用](https://zhuanlan.zhihu.com/p/377680572)》
 
-## **奇淫巧技**
+## 奇淫巧技
 
 《[QuickerMemo：以思考的速度渐进学习](https://zhuanlan.zhihu.com/p/374212495)》
-
-《[怎样将Anki牌组（deck）导入到SuperMemo（anki2sm使用方法）](https://zhuanlan.zhihu.com/p/325966893)》
-
-《[怎样使用SuperMemo插件SuperMemo Assistant（SMA使用指南）](https://zhuanlan.zhihu.com/p/328137848)》
-
-《[SuperMemo之ImageOcclusionEditor插件安装教程](https://zhuanlan.zhihu.com/p/326168555)》
 
 《[SuperMemo: 知识树快转思维导图](https://zhuanlan.zhihu.com/p/368976134)》
 
 《[SuperMemo包容万物：SM图片快速遮挡保姆级教程](https://zhuanlan.zhihu.com/p/377280556)》
 
-## **其他**
-
-《[简评 Dendro：极简渐进阅读 web 应用](https://zhuanlan.zhihu.com/p/373005210)》
-
-## **结语**
+## 结语
 
 以上就是本专栏的导读指引，希望对大家有所帮助，接下来来点友情链接：
 
 官方文档的中文翻译，超级详细：
 
-[帮助文档 · 语雀​www.yuque.com/supermemo/wiki](https://link.zhihu.com/?target=https%3A//www.yuque.com/supermemo/wiki)
+[帮助文档 · 语雀 (yuque.com)](https://www.yuque.com/supermemo/wiki)
 
 提高制卡能力，千万不要错过：
 
-[制卡原则与知识表述2159 浏览 · 74 关注收藏夹](https://www.zhihu.com/collection/614280525)
+[制卡原则与知识表述 - 收藏夹 - 知乎 (zhihu.com)](https://www.zhihu.com/collection/614280525)
 
 学习一定一定要让自己快乐：
 
-[普通人怎么才会像打游戏一样爱上学习？230 赞同 · 30 评论回答](https://www.zhihu.com/question/429432467/answer/1578551193)
+[普通人怎么才会像打游戏一样爱上学习？](https://www.zhihu.com/question/429432467/answer/1578551193)
 
 Telegram 订阅频道：
 
-[https://t.me/anki\_keeper​t.me/anki\_keeper](https://link.zhihu.com/?target=https%3A//t.me/anki_keeper)
+[Telegram: Contact @anki\_keeper](https://t.me/anki_keeper)
 
 感谢各位的支持！
-
-  
 
 2021 年 5 月 22 日
 
