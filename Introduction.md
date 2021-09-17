@@ -54,13 +54,13 @@
 
 以上就是本书的导读指引，希望对大家有所帮助，接下来来点友情链接：
 
-官方文档的中文翻译，超级详细：[帮助文档 · 语雀 (yuque.com)](https://www.yuque.com/supermemo/wiki)
+官方文档的中文翻译，超级详细：[帮助文档 · 语雀![](images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki)
 
-提高制卡能力，千万不要错过：[制卡原则与知识表述 - 收藏夹 - 知乎 (zhihu.com)](https://www.zhihu.com/collection/614280525)
+提高制卡能力，千万不要错过：[制卡原则与知识表述![](images/external-ltr.svg)](https://www.zhihu.com/collection/614280525)
 
-学习一定一定要让自己快乐：[普通人怎么才会像打游戏一样爱上学习？](https://www.zhihu.com/question/429432467/answer/1578551193)
+学习一定一定要让自己快乐：[普通人怎么才会像打游戏一样爱上学习？![](images/external-ltr.svg)](https://www.zhihu.com/question/429432467/answer/1578551193)
 
-Telegram 订阅频道：[Telegram: Contact @anki\_keeper](https://t.me/anki_keeper)
+Telegram 订阅频道：[Telegram: Contact @anki\_keeper![](images/external-ltr.svg)](https://t.me/anki_keeper)
 
 感谢各位的支持！
 

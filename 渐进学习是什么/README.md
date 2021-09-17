@@ -14,7 +14,7 @@
 
 本书不会介绍怎么获取 SuperMemo，如有需要，请参考语雀上的这篇文档
 
->[success] [安装SuperMemo · 语雀 (yuque.com)](https://www.yuque.com/supermemo/wiki/installing_supermemo_in_a_minute)
+>[success] [安装SuperMemo · 语雀 (yuque.com)![](../images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/installing_supermemo_in_a_minute)
 
 *****
 

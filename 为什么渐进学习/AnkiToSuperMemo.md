@@ -1,6 +1,6 @@
 # 在 Anki 制作 2.9 万张卡片，复习 33 万次之后，我转用了 SueprMemo
 
-> 译者兼作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+> 译者兼作者：[叶峻峣![](../images/external-ltr.svg)](https://www.zhihu.com/people/L.M.Sherlock)
 
 ## 目录
 
@@ -8,27 +8,27 @@
 
 ## 声明
 
-本文不是在反对 Anki，我热爱 Anki，并为 Anki 写了很多教程，我觉得 Anki 是一个不错的间隔重复软件，也适合新手接触[间隔重复](https://zhuanlan.zhihu.com/p/57020308)与[知识表述](https://zhuanlan.zhihu.com/p/269997143)。我写此文是为了给一些有相同处境的同学提供我的见解。
+本文不是在反对 Anki，我热爱 Anki，并为 Anki 写了很多教程，我觉得 Anki 是一个不错的间隔重复软件，也适合新手接触[间隔重复![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/57020308)与[知识表述![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/269997143)。我写此文是为了给一些有相同处境的同学提供我的见解。
 
 ## 致敬
 
-本文是受 [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews](https://www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/) 一文启发，本来打算翻译，但是我的经历与作者相似，所以直接写我自己的版本或许更好，本文的部分段落翻译自该文。
+本文是受 [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews![](../images/external-ltr.svg)](https://www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/) 一文启发，本来打算翻译，但是我的经历与作者相似，所以直接写我自己的版本或许更好，本文的部分段落翻译自该文。
 
 ## 澄清
 
-本文中所提的 SuperMemo 是指 [SuperMemo 18](https://super-memory.com/english/down.htm)，而非 [supermemo.com](https://supermemo.com/)，还请不要搞混了。
+本文中所提的 SuperMemo 是指 [SuperMemo 18![](../images/external-ltr.svg)](https://super-memory.com/english/down.htm)，而非 [supermemo.com![](../images/external-ltr.svg)](https://supermemo.com/)，还请不要搞混了。
 
 ## 引子
 
 我的故事可能会对你有所帮助，因为：
 
-1.  我从 2017 年 4 月开始使用 Anki（[超过 3 年](https://zhuanlan.zhihu.com/p/62915980)）
-2.  在 2020 年 7 月尝试 [SuperMemo](https://www.yuque.com/supermemo/wiki/supermemo)（4 个月前）
+1.  我从 2017 年 4 月开始使用 Anki（[超过 3 年![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/62915980)）
+2.  在 2020 年 7 月尝试 [SuperMemo![](../images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/supermemo)（4 个月前）
 3.  从停止往 Anki 里添加新卡片，到完全转用 SuperMemo
 
 ## 我与 Anki 的故事
 
-2017 年年初，痴迷于研究学习方法的我，在知乎上寻找学习方法，找到了[@余时行](https://www.zhihu.com/people/f6e6eafd757577f7729919c8733f48fe)老师的 [Anki 专栏](https://zhuanlan.zhihu.com/-anki)教程，从而与 Anki 结下了不解之缘。在 2017年 4 月 22 日，我创建了自己的 Anki 账户，开始了我的 Anki 使用之旅，后来成为了 [Anki 高考的推广者](https://zhuanlan.zhihu.com/p/46158369)，那已经是两年前的事情了。
+2017 年年初，痴迷于研究学习方法的我，在知乎上寻找学习方法，找到了[@余时行![](../images/external-ltr.svg)](https://www.zhihu.com/people/f6e6eafd757577f7729919c8733f48fe)老师的 [Anki 专栏![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/-anki)教程，从而与 Anki 结下了不解之缘。在 2017年 4 月 22 日，我创建了自己的 Anki 账户，开始了我的 Anki 使用之旅，后来成为了 [Anki 高考的推广者![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/46158369)，那已经是两年前的事情了。
 
 ### 我的 Anki 统计数据
 
@@ -55,7 +55,7 @@
 
 ### 我对 Anki 的热情
 
-*   写了近 200 篇关于 Anki 的文章，[一本教程书](https://www.kancloud.cn/ankigaokao/ankigaokao)，还有很多很多回答
+*   写了近 200 篇关于 Anki 的文章，[一本教程书![](../images/external-ltr.svg)](https://www.kancloud.cn/ankigaokao/ankigaokao)，还有很多很多回答
 *   在 AppStore 上花了 163￥ 买了 iOS 版的 AnkiMobile（哪怕我不用苹果设备）
 *   给 Anki 贡献翻译、issue
 
@@ -63,7 +63,7 @@
 
 ## 我入门 SuperMemo 的失败
 
-其实 18 年年底，我就试着开始使用 SuperMemo，那时我通过 Anki 的算法了解到了 SuperMemo，并开始了我的[翻译计划](https://zhuanlan.zhihu.com/p/52816339)。
+其实 18 年年底，我就试着开始使用 SuperMemo，那时我通过 Anki 的算法了解到了 SuperMemo，并开始了我的[翻译计划![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/52816339)。
 
 那个时候，关于 SuperMemo，我几乎找不到任何中文教程，只有官方英文文档，无尽的文档。
 
@@ -176,7 +176,7 @@ Anki 的受欢迎程度超过了 SuperMemo：
 
 “Anki 的一切都能交给用户自己来掌握！“可惜这句话现在看来就是把难题抛给了用户来解决。
 
-为了调整参数，我去[阅读 Anki 的算法](https://zhuanlan.zhihu.com/p/42921090)，去查看记忆相关的论文，去使用 [Anki 参数模拟器](https://zhuanlan.zhihu.com/p/78398403)，去研究别的用户提供的参数调整……似乎这些内容很有帮助，但是
+为了调整参数，我去[阅读 Anki 的算法![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/42921090)，去查看记忆相关的论文，去使用 [Anki 参数模拟器![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/78398403)，去研究别的用户提供的参数调整……似乎这些内容很有帮助，但是
 
 理论难以直接用于调整参数，而现成的参数又难以证明其正确。
 
@@ -224,7 +224,7 @@ Anki 的受欢迎程度超过了 SuperMemo：
 
 确实，Anki 的算法要比固定间隔的所谓“艾宾浩斯”复习表格要高效，但是收敛的速度却是一个难以衡量的量。Anki 根据一张卡片的反馈来调整一张卡片的复习，难以做出更好的优化。更多关于 Anki 算法的局限，可以看我这篇文章：
 
-[06 1989: SuperMemo 适应用户记忆(下) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/213170503)
+[06 1989: SuperMemo 适应用户记忆(下)![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/213170503)
 
 #### SuperMemo 的优化算法
 
@@ -232,11 +232,11 @@ SuperMemo 的算法是否优于 Anki？很可能，但相比这一点，这个�
 
 :-: ![](../images/v2-b95b24170ddd4fd5c00748fe95323f2f_720w.jpg)
 
-对提前复习和[推迟](https://www.yuque.com/supermemo/wiki/postpone)复习的完美支持，让我不再对每日爆表的复习量有太大的压力。
+对提前复习和[推迟![](../images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/postpone)复习的完美支持，让我不再对每日爆表的复习量有太大的压力。
 
 更多关于 SuperMemo 的算法研究，可以看我翻译的文集：
 
-[间隔重复的历史 · supermemo.guru 翻译计划 · 看云 (kancloud.cn)](https://www.kancloud.cn/ankigaokao/supermemo-guru-cn/1895505)
+[间隔重复的历史 · supermemo.guru 翻译计划![](../images/external-ltr.svg)](https://www.kancloud.cn/ankigaokao/supermemo-guru-cn/1895505)
 
 ## 碎片化的弊病
 
@@ -260,7 +260,7 @@ SuperMemo 的算法是否优于 Anki？很可能，但相比这一点，这个�
 
 ## 在 Anki 中解决碎片化的挫折
 
-之前的知乎圆桌里，就有同学提问，[如何解决 Anki 碎片化的问题，如何对知识保持宏观的掌握？](https://www.zhihu.com/question/410172084/answer/1369611197)
+之前的知乎圆桌里，就有同学提问，[如何解决 Anki 碎片化的问题，如何对知识保持宏观的掌握？![](../images/external-ltr.svg)](https://www.zhihu.com/question/410172084/answer/1369611197)
 
 例如，我学习了光环效应的概念，阅读了《批判性思维》中的一些例子。然后在 Anki 中，我会记住一些关于光环效应的关键词，总结出一些例子。通过这样做，我希望能够在现实生活中识别出光环效应的新事件和新情况，因此，重新校准我的判断，以便更好地进行批判性思维。
 
@@ -268,13 +268,13 @@ SuperMemo 的算法是否优于 Anki？很可能，但相比这一点，这个�
 
 德里克•西弗斯(Derek Sivers)在接受《成为超人》(Becoming a Superhuman)采访时提到了类似的担忧：
 
-> **所以我的第一个想法就是这220本书的笔记，你们将看到的每一本都是一页又一页的笔记。我的第一个想法就是我该怎么把这个放进间隔重复里。比如我怎样用间隔重复记住我从这些书中学到的东西？说实话，我还没想出答案。实际上我玩过一些东西。我做了-我想你们称之为挖空技巧，你们省略了某些词。但即使那样，我还是觉得，“好吧，我想记住的不是这个句子。我不是在背诗歌。我想记住这个概念，这个想法，这样它就会像我之前说的那些“不管什么让你害怕，去做吧”或者你的10条原则清单一样内化。**——[interview with “Becoming a Superhuman”](https://sivers.org/2015-12-superhuman)
+> **所以我的第一个想法就是这220本书的笔记，你们将看到的每一本都是一页又一页的笔记。我的第一个想法就是我该怎么把这个放进间隔重复里。比如我怎样用间隔重复记住我从这些书中学到的东西？说实话，我还没想出答案。实际上我玩过一些东西。我做了-我想你们称之为挖空技巧，你们省略了某些词。但即使那样，我还是觉得，“好吧，我想记住的不是这个句子。我不是在背诗歌。我想记住这个概念，这个想法，这样它就会像我之前说的那些“不管什么让你害怕，去做吧”或者你的10条原则清单一样内化。**——[interview with “Becoming a Superhuman”![](../images/external-ltr.svg)](https://sivers.org/2015-12-superhuman)
 
 我认为他也是在克服碎片化，将知识连成整体。我记忆一个概念的关键词的时间越长，我就越觉得，emmm......我只是为了记忆而记忆。这些概念似乎是孤立存在的。了解“外部视图”或“可用性启发”的存在当然是有帮助的，但我希望得到的不仅仅是知道名称。
 
-说来也巧，在翻译 SuperMemo 算法文档的时候，我注意到博士对[知识连贯性](https://zhuanlan.zhihu.com/p/264327134)的定义。SuperMemo 的[渐进阅读](https://www.yuque.com/supermemo/wiki/incremental_reading)似乎能够建立知识之间的连接，克服碎片化的问题。
+说来也巧，在翻译 SuperMemo 算法文档的时候，我注意到博士对[知识连贯性![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/264327134)的定义。SuperMemo 的[渐进阅读![](../images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/incremental_reading)似乎能够建立知识之间的连接，克服碎片化的问题。
 
-这对我非常有吸引力，而且那时我正对 Anki 的参数与算法感到沮丧，并想要深入研究 SuperMemo 的算法，于是我再一次入门 SuperMemo。（顺便也入了 [RemNote](https://www.zhihu.com/column/c_1285992721149685760)
+这对我非常有吸引力，而且那时我正对 Anki 的参数与算法感到沮丧，并想要深入研究 SuperMemo 的算法，于是我再一次入门 SuperMemo。（顺便也入了 [RemNote![](../images/external-ltr.svg)](https://www.zhihu.com/column/c_1285992721149685760)
 
 我非常清楚，我想要达到的目标可能超出了 Anki 的范围。没有人能保证一个更好的算法或渐进阅读可以帮助我联系知识。但至少我相信这会有很大的帮助。知识的联系依赖于更多的背景知识。由于间隔重复在长期记忆中起着重要的作用，一个更好的长期记忆算法也应该有助于克服知识碎片化。
 
@@ -298,13 +298,13 @@ Q：哪一种调度算法而能使短任务、长任务和交互型任务都满�
 A：MLFQ
 ~~~
 
-可能需要几天甚至几周的时间 SuperMemo 才会再次向我展示这篇文章。在此期间，我将回答问答和完成我从上面的段落。同样值得一提的是，这样间隔你的阅读和学习时间，可以让[睡眠发挥它的作用：巩固记忆](https://zhuanlan.zhihu.com/p/266856783)。
+可能需要几天甚至几周的时间 SuperMemo 才会再次向我展示这篇文章。在此期间，我将回答问答和完成我从上面的段落。同样值得一提的是，这样间隔你的阅读和学习时间，可以让[睡眠发挥它的作用：巩固记忆![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/266856783)。
 
 当我最终再次遇到这篇文章的时候，我已经理解了基本的事实，记住了基本的术语。这样，当我继续阅读的时候，我就不会在基础上挣扎了。理解了基础知识就意味着增加了先前的知识，从而减少了工作记忆的负荷，因此可以分配更多的工作记忆用于更深层次的理解。
 
-这与第三条基于 20 条知识表述法则的建立是一致的：[从基础开始](https://zhuanlan.zhihu.com/p/52369009)。
+这与第三条基于 20 条知识表述法则的建立是一致的：[从基础开始![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/52369009)。
 
-这就是[量子物理学家迈克尔 · 尼尔森在 Anki 所做的](https://zhuanlan.zhihu.com/p/65131722?utm_source=cn.wiz.note)。他可能没有意识到他正在做渐进阅读。然而，在 Anki 中文章和相关卡片之间的间隔和交叉方面有一个严重的缺点。
+这就是[量子物理学家迈克尔 · 尼尔森在 Anki 所做的![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/65131722?utm_source=cn.wiz.note)。他可能没有意识到他正在做渐进阅读。然而，在 Anki 中文章和相关卡片之间的间隔和交叉方面有一个严重的缺点。
 
 ## 闭幕词
 
@@ -312,15 +312,15 @@ A：MLFQ
 
 ## 鸣谢
 
-这里是 SuperMemo 群群友[@临水斜箫](https://www.zhihu.com/people/193f4c99c74479f7af501804a896a6f7)的视频教程：
+这里是 SuperMemo 群群友[@临水斜箫![](../images/external-ltr.svg)](https://www.zhihu.com/people/193f4c99c74479f7af501804a896a6f7)的视频教程：
 
-[「记忆软件」手把手教你用Supermemo系列\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1L741197iu)
+[「记忆软件」手把手教你用Supermemo系列\_哔哩哔哩\_bilibili![](../images/external-ltr.svg)](https://www.bilibili.com/video/BV1L741197iu)
 
 还有 SuperMemo 帮助文档的翻译：
 
-[SuperMemo 18帮助文档 · 语雀 (yuque.com)](https://www.yuque.com/supermemo/wiki/help)
+[SuperMemo 18帮助文档![](../images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/help)
 
-[@SuperDaniel](https://www.zhihu.com/people/dcd99817bb9f2281ac57a7901c82c151)是组织者，非常感谢你们！
+[@SuperDaniel![](../images/external-ltr.svg)](https://www.zhihu.com/people/dcd99817bb9f2281ac57a7901c82c151)是组织者，非常感谢你们！
 
 2020 年 11 月 8 日
 
