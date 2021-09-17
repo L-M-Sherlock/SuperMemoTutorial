@@ -31,6 +31,7 @@
 * [从 Duolingo 机器学习算法说起，浅析记忆数据的特征工程![](images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/345172257)
 * [Anki 制卡对复习记忆效率的影响分析![](images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/346463057)
 * [Anki 复习数据清洗与分析(附源码和数据)![](images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/337200754)
+* [用艾宾浩斯曲线记忆周期来背单词是否有理论依据？![](images/external-ltr.svg)](https://www.zhihu.com/question/19798259/answer/2125871191)
 * 未完待续
 
 还有一些我在墨墨背单词做的研究属于内部资料，以后可能公开，敬请期待。论文也在写了，慢慢来吧。
