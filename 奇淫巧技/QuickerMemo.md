@@ -1,6 +1,6 @@
 # QuickerMemo：以思考的速度渐进学习
 
-> 作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+> 作者：[叶峻峣![](../images/external-ltr.svg)](https://www.zhihu.com/people/L.M.Sherlock)
 
 > 前置知识：**Quicker，SuperMemo，渐进学习**
 
@@ -18,7 +18,7 @@
 
 快捷键分享地址：
 
-[SuperMemo 纯键盘操作 - 扩展热键配置包 - Quicker (getquicker.net)](https://getquicker.net/share/powerkeys/package?id=5fcf3d5c-c548-4793-6115-08d8ac47c7cb)
+[SuperMemo 纯键盘操作 - 扩展热键配置包 - Quicker![](../images/external-ltr.svg)](https://getquicker.net/share/powerkeys/package?id=5fcf3d5c-c548-4793-6115-08d8ac47c7cb)
 
 配合 CapsLock 键，可以使用更多的组合键来实现以下功能：
 

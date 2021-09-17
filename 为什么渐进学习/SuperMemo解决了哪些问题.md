@@ -26,9 +26,9 @@
 
 以下就是 SuperMemo 主要模块引入的时间：
 
-*   记忆算法(始于[SuperMemo 1 (1987)](https://zhuanlan.zhihu.com/p/97887756))
-*   渐进阅读(始于[SuperMemo 10 (2000)](https://super-memory.com/articles/soft/sm10.htm))
-*   优先级队列(始于[SuperMemo 13 (2006)](https://super-memory.com/archive/help2006/new2006.htm))
+*   记忆算法(始于[SuperMemo 1 (1987)![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/97887756))
+*   渐进阅读(始于[SuperMemo 10 (2000)![](../images/external-ltr.svg)](https://super-memory.com/articles/soft/sm10.htm))
+*   优先级队列(始于[SuperMemo 13 (2006)![](../images/external-ltr.svg)](https://super-memory.com/archive/help2006/new2006.htm))
 
 接下来我们就按照这个顺序分析一下，这些模块分别**解决了什么**问题，以及它们是**如何解决**的。
 
@@ -55,7 +55,7 @@
 
 事实证明，复习间隔**太长**和**太短**，都会**加重复习**的负担。
 
-:-: ![img](../images/v2-888d448cb6fc8544f14c0fbe7803d7a6_b.jpg)
+:-: ![](../images/v2-888d448cb6fc8544f14c0fbe7803d7a6_b.jpg)
 
 如何理解？间隔短，可以保证自己忘得少，但是这是用时间换的。间隔长，看似可以节省时间，然而其造成的遗忘需要未来更多的复习。
 
@@ -69,7 +69,7 @@
 
 更多有关记忆算法的内容，请见我的收藏夹：
 
-[Spaced Repetition - 收藏夹 - 知乎 (zhihu.com)](https://www.zhihu.com/collection/644178787)
+[Spaced Repetition - 收藏夹![](../images/external-ltr.svg)](https://www.zhihu.com/collection/644178787)
 
 ## 渐进阅读
 
@@ -88,7 +88,7 @@
 
 有阅读过这个收藏夹内文章的朋友应该能够明白，知识表述对记忆质量有很大的影响：
 
-[制卡原则与知识表述 - 收藏夹 - 知乎 (zhihu.com)](https://www.zhihu.com/collection/614280525)
+[制卡原则与知识表述 - 收藏夹![](../images/external-ltr.svg)](https://www.zhihu.com/collection/614280525)
 
 而许多 Anki 用户在这个问题上有三种因对方式：
 
@@ -124,7 +124,7 @@ SuperMemo 的算法通过对我个人复习情况的拟合，计算出了不同�
 
 怎么办呢？根据我们人类的天性，一个字：**拖**。
 
-别惊讶，[理性拖延](https://zhuanlan.zhihu.com/p/350725699)是现代人的必修课。我们总会把不那么紧急或者重要的事情往后拖。事后来看，有些拖延确实是正确的选择。
+别惊讶，[理性拖延![](../images/external-ltr.svg)](https://zhuanlan.zhihu.com/p/350725699)是现代人的必修课。我们总会把不那么紧急或者重要的事情往后拖。事后来看，有些拖延确实是正确的选择。
 
 通过拖延，我们把时间、精力投入到更有价值的事情上。在记忆上同样适用，我们想要解决的是**记忆的价值问题**。
 
