@@ -1,6 +1,6 @@
 # SuperMemo 的三大模块，解决记忆的三大问题！
 
-> 作者：[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)
+> 作者：[叶峻峣![](../images/external-ltr.svg)](https://www.zhihu.com/people/L.M.Sherlock)
 
 ## 目录
 
