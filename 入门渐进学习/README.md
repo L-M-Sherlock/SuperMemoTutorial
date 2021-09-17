@@ -10,4 +10,4 @@
 
 什么？没有 SuperMemo？再给你一次机会，去这里：
 
->[success] [安装SuperMemo · 语雀 (yuque.com)![](images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/installing_supermemo_in_a_minute)
+>[success] [安装SuperMemo · 语雀 (yuque.com)![](../images/external-ltr.svg)](https://www.yuque.com/supermemo/wiki/installing_supermemo_in_a_minute)
